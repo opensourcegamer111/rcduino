@@ -8,3 +8,4 @@
 # Pin 30 on Arduino MEGA is THR on reciever
 # DONT FORGET TO BIND RECIEVER
 # DONT FORGET TO POWER ON RECIEVR WITH 5V
+# DONT FORGET THE AFMOTOR LIBRARY AT https://learn.adafruit.com/adafruit-motor-shield
